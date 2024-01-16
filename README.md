@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hey there! I'm Cyp
 
-<!--
-**CyprianESPI/CyprianESPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Embedded Software Engineer | ⚙️ Firmware Developer | 🚀 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+#### 💻 Tech Dual-Wielding
+- 🛠 C/C++ for embedded systems
+- 🧠 Microcontrollers and Microprocessors
+- 🌐 Exploring the web stack with HTML, CSS, JavaScript
+- 🚀 TOP Curriculum Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Current Ventures
+- 🔧 Crafting firmware solutions for connected devices
+- 🌐 Learning the ropes of Full Stack Development
+- 🚀 Building the bridge between embedded and web technologies
+
+#### 💡 Fun Fact
+I believe in the power of blending hardware and software to create a seamless tech experience. Let's code the future together!
