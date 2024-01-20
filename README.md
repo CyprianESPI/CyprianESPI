@@ -1,4 +1,4 @@
-### 👋 Hey there! I'm Cyp
+### 👋 Hey there! I'm a Mechatronics Engineer who likes to code 💻
 
 🌐 Embedded Software Engineer | ⚙️ Firmware Developer | 🚀 Aspiring Full Stack Developer
 
